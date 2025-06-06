@@ -105,7 +105,7 @@ Insert at least 500,000 rows
 
 
 
-## Retrieve & Analyze from Python
+## To finish Retrieve & Analyze from Python
 Using Python:
 
 Retrieve SHOPLIFTING & VANDALISM crimes
